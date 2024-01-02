@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://songhran.github.io</id>
+    <title>欢迎来到宋浩然的个人主页ヾ(≧▽≦*)o</title>
+    <updated>2024-01-02T12:21:34.252Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://songhran.github.io"/>
+    <link rel="self" href="https://songhran.github.io/atom.xml"/>
+    <subtitle>永远相信美好的事情即将发生</subtitle>
+    <logo>https://songhran.github.io/images/avatar.png</logo>
+    <icon>https://songhran.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 欢迎来到宋浩然的个人主页ヾ(≧▽≦*)o</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://songhran.github.io/hello-gridea/</id>
+        <link href="https://songhran.github.io/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到<strong>宋浩然</strong>的个人主页</p>
+</blockquote>
+<p>本博客由gridea搭建</p>
+]]></content>
+    </entry>
+</feed>
